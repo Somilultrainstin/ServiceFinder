@@ -56,7 +56,7 @@ function about(props) {
           <p>
             Our aim to provide a plaform for oneline home services. Today
             operates in different cities of the country including Pune , Indore
-            , Mumbai , Banglore .The BookMyService.com platform helps customers
+            , Mumbai , Banglore .The ServiceFinder.com platform helps customers
             to book high quality and relaible services-beauty
             treatment,massages,haircut,home sevices like electrician , plumber
             and more. delivered by trained professionals . Also this platform
@@ -89,7 +89,7 @@ function about(props) {
           }}
         >
           <p>
-            BookMyService.com provides a platform over the web on which various
+            ServiceFinder.com provides a platform over the web on which various
             skilled and professional service providers connects with the users
             who are looking for specific service. and then the user is able to
             book the service which is closest according to requirement

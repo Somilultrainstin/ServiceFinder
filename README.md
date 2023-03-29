@@ -1,3 +1,3 @@
-# BookMyService
+# ServiceFinder
 
 MERN stack Project

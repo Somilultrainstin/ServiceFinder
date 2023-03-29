@@ -9,7 +9,7 @@ const Landing = ({ history }) => {
     <section className="landing">
       <div className="dark-overlay">
         <h1 className="large" style={{ textAlign: "center", margin: "20px" }}>
-          Book<span style={{ color: "#ff9900" }}>MyService</span> <br></br>
+          Service<span style={{ color: "#ff9900" }}>Finder</span> <br></br>
           <h6 style={{ fontWeight: "normal" }}>Choose Your Service</h6>
         </h1>
         {/* <h3 style={{ textAlign: "center", margin: "20px" }}>Choose Your Service</h3> */}
@@ -60,7 +60,7 @@ const Landing = ({ history }) => {
 //     <section className='landing'>
 //       <div className='dark-overlay'>
 //         <div className='landing-inner'>
-//           <h1 className='large'>BookMyService</h1>
+//           <h1 className='large'>ServiceFinder</h1>
 //           <p className='lead'>
 //             Buy and Sell all kind of Household Services from plumbing to
 //             Baby-sitting.
