@@ -299,7 +299,7 @@
                 className: "hide-sm",
                 children: Object(_.jsx)(s.b, {
                   to: "/",
-                  children: "ServiceFinder",
+                  children: "Household ServiceProvider",
                 }),
               }),
               !r &&
@@ -552,7 +552,7 @@
                 Object(_.jsx)("h1", {
                   className: "large",
                   style: { textAlign: "center", margin: "20px" },
-                  children: "ServiceFinder",
+                  children: "Household ServiceProvider",
                 }),
                 Object(_.jsx)("div", {
                   style: {
@@ -3685,7 +3685,7 @@
                     },
                     children: Object(_.jsx)("p", {
                       children:
-                        "Our aim to provide a plaform for oneline home services. Today operates in different cities of the country including Pune , Indore , Mumbai , Banglore .The ServiceFinder.com platform helps customers to book high quality and relaible services-beauty treatment,massages,haircut,home sevices like electrician , plumber and more. delivered by trained professionals . Also this platform provide different types of service provider a platform where they can register and sell their service anf get customer online.",
+                        "Our aim to provide a plaform for oneline home services. Today operates in different cities of the country including Pune , Indore , Mumbai , Banglore .The Household ServiceProvider.com platform helps customers to book high quality and relaible services-beauty treatment,massages,haircut,home sevices like electrician , plumber and more. delivered by trained professionals . Also this platform provide different types of service provider a platform where they can register and sell their service anf get customer online.",
                     }),
                   }),
                 ],
@@ -3710,7 +3710,7 @@
                     },
                     children: Object(_.jsx)("p", {
                       children:
-                        "ServiceFinder.com provides a platform over the web on which various skilled and professional service providers connects with the users who are looking for specific service. and then the user is able to book the service which is closest according to requirement",
+                        "Household ServiceProvider.com provides a platform over the web on which various skilled and professional service providers connects with the users who are looking for specific service. and then the user is able to book the service which is closest according to requirement",
                     }),
                   }),
                 ],

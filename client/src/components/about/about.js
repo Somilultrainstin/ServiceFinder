@@ -56,8 +56,8 @@ function about(props) {
           <p>
             Our aim to provide a plaform for oneline home services. Today
             operates in different cities of the country including Pune , Indore
-            , Mumbai , Banglore .The ServiceFinder.com platform helps customers
-            to book high quality and relaible services-beauty
+            , Mumbai , Banglore .The Household ServiceProvider.com platform
+            helps customers to book high quality and relaible services-beauty
             treatment,massages,haircut,home sevices like electrician , plumber
             and more. delivered by trained professionals . Also this platform
             provide different types of service provider a platform where they
@@ -89,10 +89,11 @@ function about(props) {
           }}
         >
           <p>
-            ServiceFinder.com provides a platform over the web on which various
-            skilled and professional service providers connects with the users
-            who are looking for specific service. and then the user is able to
-            book the service which is closest according to requirement
+            Household ServiceProvider.com provides a platform over the web on
+            which various skilled and professional service providers connects
+            with the users who are looking for specific service. and then the
+            user is able to book the service which is closest according to
+            requirement
           </p>
         </div>
       </div>

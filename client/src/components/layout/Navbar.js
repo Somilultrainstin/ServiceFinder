@@ -103,7 +103,7 @@ const Navbar = ({ auth: { isAuthenticated, loading, user }, logout }) => {
     <nav className="navbar bg-dark">
       <h2 className="hide-sm">
         <Link to="/">
-          Service<span style={{ color: "#ff9900" }}>Finder</span>
+          Household<span style={{ color: "#ff9900" }}>ServiceProvider</span>
         </Link>
       </h2>
       {!loading && (

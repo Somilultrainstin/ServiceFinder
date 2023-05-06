@@ -1,5 +1,5 @@
 {
-  "name": "ServiceFinder",
+  "name": "Household ServiceProvider",
   "version": "1.0.0",
   "engines": {
     "node": "14.14.0",
@@ -14,7 +14,7 @@
     "dev": "concurrently \"npm run server\" \"npm run client\""
   },
   "keywords": [
-    "ServiceFinder"
+    "Household ServiceProvider"
   ],
   "author": "CC",
   "license": "ISC",

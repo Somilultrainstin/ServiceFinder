@@ -1,3 +1,3 @@
-# ServiceFinder
+# Household ServiceProvider
 
 MERN stack Project
